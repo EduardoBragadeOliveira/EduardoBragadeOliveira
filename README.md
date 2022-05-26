@@ -2,6 +2,7 @@
 
 - 🌱 Atualmente estou aprendendo sobre PHP 7.
 - 🤔 Procuro por estágios na área.
+- 🌍 Fluente em Português e Inglês.
 
 <div align="center">
   <a href="https://github.com/EduardoBragadeOliveira">
