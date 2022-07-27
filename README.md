@@ -1,6 +1,6 @@
 ## Olá a todos! Meu nome é Eduardo, obrigado por acessar o meu perfil.
 
-- 🌱 Atualmente estou aprendendo sobre PHP 7.
+- 🌱 Atualmente estou aprendendo sobre Angular.
 - 🤔 Procuro por estágios na área.
 - 🌍 Fluente em Português e Inglês.
 
