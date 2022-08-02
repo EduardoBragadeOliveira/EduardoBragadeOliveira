@@ -1,6 +1,6 @@
 ## Olá a todos! Meu nome é Eduardo, obrigado por acessar o meu perfil.
 
-- 🌱 Atualmente estou aprendendo sobre Angular.
+- 🌱 Atualmente estou aprendendo sobre Java.
 - 🤔 Procuro por estágios na área.
 - 🌍 Fluente em Português e Inglês.
 
