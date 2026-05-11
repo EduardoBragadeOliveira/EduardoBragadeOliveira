@@ -1,7 +1,7 @@
 ## Olá a todos! Meu nome é Eduardo, obrigado por acessar o meu perfil.
 
 - 🌱 Experiência de 4 anos em Laravel PHP e Wordpress.
-- 🤔 Procuro por estágios ou trabalho na área.
+- 🤔 Procuro por estágio ou trabalho na área, podendo ser Front-End, Back-End ou FullStack.
 - 🌍 Fluente em Português e Inglês.
 
   ##
